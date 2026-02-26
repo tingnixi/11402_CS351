@@ -1,2 +1,2 @@
-# Class reop for 1121533
+# Class repo for 1121533
 Hello — my name is Ting. I am a motivated and curious learner with a strong interest in technology and problem-solving. I enjoy programming, collaborating on projects, and learning new tools and techniques. I communicate clearly, work well in teams, and stay resilient when facing challenges. In my free time I like reading, exploring new technologies, and going for walks. I'm excited to contribute, learn, and grow.
